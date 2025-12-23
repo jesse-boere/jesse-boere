@@ -10,6 +10,3 @@ Cultural policy · music · writing
 **Links**
 - Medium: https://medium.com/@jesseboere
 - LinkedIn: https://www.linkedin.com/in/jesseboere
-
-<!-- optional: contact -->
-For inquiries: jesseboere@gmail.com
